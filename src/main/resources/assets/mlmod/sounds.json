@@ -1,0 +1,7 @@
+{
+  "Notification": {
+    "category": "master",
+    "subtitle": "Уведомление",
+    "sounds": [{"name": "mlmod:notification", "stream": true}]
+  }
+}
