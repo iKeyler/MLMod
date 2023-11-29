@@ -1,7 +1,7 @@
 {
-  "unread_mail": "default",
+  "unread_mail": "test 1",
   "unanswered_asks": "default",
-  "pm": "default",
+  "pm": "test2",
   "personal_join": "default",
   "new_ask": "default",
   "world_invite": "default",
@@ -41,6 +41,6 @@
   "skyblock_sold": "default",
   "case_open1": "default",
   "case_open2": "default",
-  "case_open3": "default",
-  "old_ip": "default"
+  "case_open3": "loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong",
+  "old_ip": "test3"
 }
